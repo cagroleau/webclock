@@ -1,0 +1,17 @@
+{
+  "name": "Webclock",
+  "version": "1.0.0",
+  "description": "Webclock Written by Chris Groleau 11/9/2019",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://xriskarasu.github.io/webclock"
+}
